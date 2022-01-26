@@ -15,8 +15,12 @@ Libraries used: </br>
 [React Native Swiper](https://github.com/leecade/react-native-swiper) <br>
 
 # Demo:
-<img src="https://user-images.githubusercontent.com/70117105/151249483-621d0583-3a78-4fa7-8edc-b5d22fc0d33a.gif" width="400">
-<img src="https://user-images.githubusercontent.com/70117105/151249609-15700da6-56f9-455d-a9ae-499379cf0e89.gif" width="400">
+<table>
+<tr>
+  <td><img src="https://user-images.githubusercontent.com/70117105/151249483-621d0583-3a78-4fa7-8edc-b5d22fc0d33a.gif" width="400"></td>
+  <td><img src="https://user-images.githubusercontent.com/70117105/151249609-15700da6-56f9-455d-a9ae-499379cf0e89.gif" width="400"></td>
+</tr>
+</table>
 
 ## More Comments:
 Pending development: </br>
