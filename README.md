@@ -2,6 +2,8 @@
 
 Libraries used: </br>
 [React Navigation V6](https://reactnavigation.org/docs/getting-started/) <br>
+[React Native Paper](https://callstack.github.io/react-native-paper/) <br>
+[React Native Swiper](https://github.com/leecade/react-native-swiper) <br>
 
 # Demo:
 
