@@ -1,5 +1,8 @@
 # Despegar UI with React Navite expo 
 
+## Description:
+This is a copy of the Despegar ui in which you can see a list of cards and see the details of the accommodation cards
+
 ## Setup
 1- Clone repository `https://github.com/MarceeloDominguez/Despegar-ui.git`</br>
 2- Install dependencies with `npm install` </br>
