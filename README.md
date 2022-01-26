@@ -15,8 +15,7 @@ Libraries used: </br>
 [React Native Swiper](https://github.com/leecade/react-native-swiper) <br>
 
 # Demo:
-
-https://user-images.githubusercontent.com/70117105/151233588-8f776239-4c31-46dd-bada-554b6fb14a2c.mp4
+<img src="https://user-images.githubusercontent.com/70117105/151249483-621d0583-3a78-4fa7-8edc-b5d22fc0d33a.gif" width="400">
 
 ## More Comments:
 Pending development: </br>
