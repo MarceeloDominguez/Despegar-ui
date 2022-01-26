@@ -18,4 +18,9 @@ Libraries used: </br>
 
 https://user-images.githubusercontent.com/70117105/151233588-8f776239-4c31-46dd-bada-554b6fb14a2c.mp4
 
+## More Comments:
+Pending development: </br>
+1- Add calendar and select a date. </br>
+2- Animation on top navigation.
+
 
