@@ -6,7 +6,8 @@ This is a copy of the Despegar ui in which you can see a list of cards and see t
 ## Setup
 1- Clone repository `https://github.com/MarceeloDominguez/Despegar-ui.git`</br>
 2- Install dependencies with `npm install` </br>
-3- Run App with  `npm start`
+3- Run App with  `npm start` </br>
+4- Use Expo
 
 Libraries used: </br>
 [React Navigation V6](https://reactnavigation.org/docs/getting-started/) <br>
