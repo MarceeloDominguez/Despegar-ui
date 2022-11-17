@@ -1,7 +1,7 @@
 # Despegar App 
 
 ## Description:
-This is a copy of the Despegar ui in which you can see a list of cards and see the details of the accommodation cards
+This is a copy of the Despegar app user interface where you can see a list of cards and see the details of each card
 
 <table>
 <tr>
